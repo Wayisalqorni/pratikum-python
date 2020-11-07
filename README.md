@@ -75,11 +75,11 @@
         7       print(i)
         8
 
-![gbr3](foto/gbr.PNG)
+![gbr3](foto/gbr3.PNG)
 
   - Kemudian simpan dengan nama ```latihan2.py```, lalu jalankan program tersebut. Maka akan menampilkan output sebagai berikut
 
-  ![gbr4](foto/gbr.PNG)
+  ![gbr4](foto/gbr4.PNG)
 
 ### PENJELASAN
   - Pada baris pertama program `latihan2.py`, tertulis _`import random`_ yang berarti kita meng-impor modul/ _library_ bawaan dari python bernama **random**. Modul ini berisi bilangan acak, dengan bentuk **float**.
